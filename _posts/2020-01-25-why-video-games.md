@@ -2,7 +2,7 @@
 layout: post
 title: Why Video Games?
 subtitle: 
-tags: [default]
+tags:
 comments: true
 ---
 
