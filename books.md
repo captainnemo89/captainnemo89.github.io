@@ -1,7 +1,9 @@
 
 ---
 layout: page
+title: Books
 ---
+
 Best mode of learning is games no doubt about that but there are very minimal games that actually teach about something real.
 
 So the next best option is books. Till 10th we had all round subjects but the teaching was only exam oriented not knowledge oriented but the books were awesome .
