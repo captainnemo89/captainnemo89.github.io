@@ -14,22 +14,22 @@ So having a list of some great books that you are going to read is a great way t
 
 These books have impacted my world perspective and i refer them whenever I have doubts about the respective topics / subjects.
 
-Read:
+### Read:
 
-Rich dad poor dad
-Cashflow quadrant
-Lean startup
-Zero to one
-Permanent record
+- Rich dad poor dad
+- Cashflow quadrant
+- Lean startup
+- Zero to one
+- Permanent record
 
 
-Reading :
+### Reading :
 
-Sapiens
-Becoming steve jobs
+- Sapiens
+- Becoming steve jobs
 
-To read list :
+### read list:
 
-Intelligent investor
-Hard things about hard things
+- Intelligent investor
+- Hard things about hard things
 
